@@ -1,0 +1,23 @@
+h1 {
+	border-style: double groove double groove;
+	border-width: 10px
+	border-color: ;
+}
+
+p {
+	font-family: "Helvetica", monospace;
+	font-style: oblique;
+	font-size: 24px;
+	color: #1B2631;
+	background-color: #EBDEF0;
+}
+
+ul {
+	list-style-type: none;
+}
+
+a {
+	float: left
+	background-color: white;
+	color: ;
+}
